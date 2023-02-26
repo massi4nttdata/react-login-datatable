@@ -1,0 +1,9 @@
+{
+  "data": [
+    { "id": "0", "name": "Blue T-Short", "category": "clothes", "price": 300 },
+    { "id": "1", "name": "Red T-Short", "category": "clothes", "price": 200 },
+    { "id": "2", "name": "Brown T-Short", "category": "clothes", "price": 350 },
+    { "id": "3", "name": "Black T-Short", "category": "clothes", "price": 360 },
+    { "id": "4", "name": "Pink T-Short", "category": "clothes", "price": 400 }
+  ]
+}
