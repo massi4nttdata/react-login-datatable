@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import { useForm } from "./UserForm";
 
-function Login() {
+const Login = () => {
   // defining the initial state for the form
   const initialState = {
     email: "bluebill1049@hotmail.com",
@@ -48,6 +48,6 @@ function Login() {
       </div>
     </form>
   );
-}
+};
 
 export default Login;
